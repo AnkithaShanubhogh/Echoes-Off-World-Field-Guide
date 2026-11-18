@@ -1,2 +1,8 @@
-# Echoes-Off-World-Field-Guide
-Echoes: an interactive field guide to NASA’s abandoned equipment on the Moon and Mars. Explore artifacts, mission timelines, discoveries, and what remains, all backed by verified sources. Built for NASA Space Apps Challenge 2026. 🚀
+Echoes: Off-World Field Guide
+The rover stopped. The discoveries kept moving.
+
+Echoes tells the stories of historical human-made equipment left on the Moon and Mars. Visitors can search an artifact atlas, read each story in five chapters, follow mission timelines, see the science behind each discovery, and inspect the sources behind every claim. A short quiz and guided routes help you keep exploring.
+
+Built for the NASA Space Apps Challenge 2026 (“Abandoned but not Forgotten”). Accuracy comes first: unverified facts are shown as Unknown, never guessed.
+
+Tech stack: React, TypeScript, Vite, Node.js, Express, Zod, Vitest
